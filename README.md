@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+Login screen using flutter
+
+Simple gradient design
+
+![login_screen](https://user-images.githubusercontent.com/40262579/137270196-959e51a0-fd94-4975-b4d3-0f56af3981cc.JPG)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
